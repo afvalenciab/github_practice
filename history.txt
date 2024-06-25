@@ -1,7 +1,0 @@
-Esta es la historia de Andres Valencia
-
-Tengo 33 años y cumplo en agosto
-
-Vamos a contarla con detalles.
-
-To test the git commit -am 
