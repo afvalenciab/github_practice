@@ -1,0 +1,16 @@
+            - name: Dispatch Workflow Action
+  # You may pin to the exact commit or the version.
+  # uses: WormJim/dispatch-workflow-action@61cd9bcdde4a2a4a2e3f30bc036494d011e465cb
+  uses: WormJim/dispatch-workflow-action@1.0.16
+  with:
+    # GitHub Token with write access
+    token: 
+    # Worflow Name, Filename or ID to run
+    workflowRef: 
+    # The repository where the action is located
+    repository: # optional
+    # The git reference for the desired workflow to run. The reference can be a branch or tag name. Default is current default branch of ref
+    ref: # optional
+    # Properties to pass to the workflow in JSON format
+    payload: # optional
+          
